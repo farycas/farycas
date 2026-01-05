@@ -7,20 +7,32 @@ QA Analyst | Senior QA Manual & Jr Automation
 ## 🛠️ Technical Skills
 
 ✅ Languages: English C1 (Advanced), Spanish (Native)
+
 ✅ Testing: Functional, API, Mobile Testing (iOS/Android), Accessibility, Regression, Smoke, Exploratory, E2E, Performance & Stress
-✅ Defect management 
+
+✅ Defect management
+
 ✅ Test strategy definition and implementation
+
 ✅ Team Leadership and cross functional collaboration
+
 ✅ Basic test Automation
 
 ## 🛠️ Tools
 ✅ Management: Jira, Azure DevOps, TestRail, Xray, Zephyr, SAP FI
+
 ✅ Databases: MS SQL, MySQL, Azure
+
 ✅ API: Postman, Swagger, SoapUI
+
 ✅ AI: Claude desktop, Cursor, ChatGPT
+
 ✅ Automation: Playwright, JavaScript, Jenkins, GitHub, GIT
+
 ✅ Accessibility: Lighthouse, WAVE, Axe, NVDA
+
 ✅ Performance: Jmeter
+
 
 ---
 
